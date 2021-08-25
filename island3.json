@@ -78,7 +78,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/lmbit_gmbh\/nordbit\/island2#entry2"
+                 "value":"island2.json#entry2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -96,7 +96,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/lmbit_gmbh\/nordbit\/conf3#entry1"
+                 "value":"conf3.json#entry1"
                 }],
          "type":"tilelayer",
          "visible":true,
