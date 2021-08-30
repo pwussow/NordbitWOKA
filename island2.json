@@ -60,7 +60,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"island1.json#entry3"
+                 "value":"island1#entry3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -78,7 +78,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"island3.json#entry1"
+                 "value":"island3#entry1"
                 }],
          "type":"tilelayer",
          "visible":true,

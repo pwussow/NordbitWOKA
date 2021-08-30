@@ -79,7 +79,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"island2.json#entry1"
+                 "value":"island2#entry1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -97,7 +97,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"conf1.json#entry1"
+                 "value":"conf1#entry1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -115,7 +115,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"conf2.json#entry1"
+                 "value":"conf2#entry1"
                 }],
          "type":"tilelayer",
          "visible":true,

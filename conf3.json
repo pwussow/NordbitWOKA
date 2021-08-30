@@ -47,7 +47,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"island3.json#entry2"
+                 "value":"island3#entry2"
                 }],
          "type":"tilelayer",
          "visible":true,
