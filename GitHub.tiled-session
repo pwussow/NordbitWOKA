@@ -1,8 +1,8 @@
 {
-    "activeFile": "",
+    "activeFile": "conf3.json",
     "expandedProjectPaths": [
-        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA",
         ".",
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA",
         "C:/Uti/NordBit/lmbitNordbitMap-master"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
@@ -16,7 +16,7 @@
             "selectedLayer": 0,
             "viewCenter": {
                 "x": 384.34676292501166,
-                "y": 407.56870051234284
+                "y": 292.88076385654404
             }
         },
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json#Fotoapparat": {
@@ -87,10 +87,10 @@
         },
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json": {
             "scale": 1.0735,
-            "selectedLayer": 0,
+            "selectedLayer": 5,
             "viewCenter": {
                 "x": 384.257102934327,
-                "y": 400.55891942244995
+                "y": 309.2687470889614
             }
         },
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#Baum_Vorlagen": {
@@ -206,7 +206,7 @@
             "selectedLayer": 0,
             "viewCenter": {
                 "x": 384.257102934327,
-                "y": 400.55891942244995
+                "y": 408.9427107591989
             }
         },
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json#Ball-01": {
@@ -298,23 +298,27 @@
         },
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json": {
             "scale": 0.45640569395017794,
-            "selectedLayer": 0,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 952.0038986354776,
-                "y": 473.26315789473693
+                "y": 492.982456140351
             }
         },
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#Flamingo-Bar_Farbe geändert": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#Flamingo-Bar_ohne Untergrund": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#Flamingo_neu-64x64": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#Grasbüschel_64": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#Logo_Contechnet": {
             "scaleInDock": 1
@@ -393,7 +397,8 @@
             "scaleInDock": 1
         },
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#grüne Hecke mit grünem Untergrund": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#leuchtturm-neu2": {
             "scaleInDock": 1
@@ -424,7 +429,7 @@
             "selectedLayer": 0,
             "viewCenter": {
                 "x": 944.744082428293,
-                "y": 432.6906154274576
+                "y": 447.910888331941
             }
         },
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Aloa-Blumen": {
@@ -576,14 +581,15 @@
         },
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json": {
             "scale": 0.45991290983606553,
-            "selectedLayer": 0,
+            "selectedLayer": 5,
             "viewCenter": {
                 "x": 944.744082428293,
-                "y": 480.52575884154834
+                "y": 500.0946811473129
             }
         },
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json#Grasbüschel_64": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json#Leuchtturm2Fixed": {
             "scaleInDock": 1
@@ -654,12 +660,21 @@
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json#tf_beach_tileB": {
             "scaleInDock": 1
         },
+        "ZRPGBeach.tsx": {
+            "scaleInDock": 1
+        },
+        "ZRPGRocks2.tsx": {
+            "scaleInDock": 1
+        },
+        "ZRPGtrees.tsx": {
+            "scaleInDock": 1
+        },
         "conf1.json": {
-            "scale": 1.0735,
-            "selectedLayer": 8,
+            "scale": 0.25,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 384.257102934327,
-                "y": 400.55891942244995
+                "x": 316,
+                "y": 564
             }
         },
         "conf1.json#Fotoapparat": {
@@ -669,6 +684,9 @@
             "scaleInDock": 1
         },
         "conf1.json#Schriftzug_Untergrund_Ostseebrise": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Schriftzug_Untergrund_Ostseebrise_neu": {
             "scaleInDock": 1
         },
         "conf1.json#Schwimmring_blau": {
@@ -735,11 +753,11 @@
             "scaleInDock": 1
         },
         "conf2.json": {
-            "scale": 1.0735,
-            "selectedLayer": 5,
+            "scale": 0.25,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 384.257102934327,
-                "y": 398.69585468095016
+                "x": 316,
+                "y": 728
             }
         },
         "conf2.json#Baum_Vorlagen": {
@@ -806,6 +824,9 @@
         "conf2.json#Schriftzug_Untergrund_Fördeblick": {
             "scaleInDock": 1
         },
+        "conf2.json#Schriftzug_Untergrund_Fördeblick_neu_": {
+            "scaleInDock": 1
+        },
         "conf2.json#Seestern_grün_1": {
             "scaleInDock": 1
         },
@@ -833,6 +854,14 @@
         "conf2.json#Strandstuhl_mit Tisch_Gitarre": {
             "scaleInDock": 1
         },
+        "conf2.json#Tischtennisplatte": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "conf2.json#Tischtennisplatte_Zeichenfläche 1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "conf2.json#ZRPGBeach": {
             "scaleInDock": 1
         },
@@ -852,11 +881,11 @@
             "scaleInDock": 1
         },
         "conf3.json": {
-            "scale": 1,
-            "selectedLayer": 6,
+            "scale": 0.25,
+            "selectedLayer": 10,
             "viewCenter": {
-                "x": 456.5,
-                "y": 464
+                "x": 316,
+                "y": -1228
             }
         },
         "conf3.json#Ball-01": {
@@ -893,6 +922,9 @@
             "scaleInDock": 1
         },
         "conf3.json#Schriftzug_Untergrund_Sprottenclub_Zeichenfläche 1": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Schriftzug_Untergrund_Sprottenclub_neu_Zeichenfläche 1": {
             "scaleInDock": 1
         },
         "conf3.json#Schwimmring": {
@@ -947,11 +979,11 @@
             "scaleInDock": 1
         },
         "island1.json": {
-            "scale": 0.5,
-            "selectedLayer": 31,
+            "scale": 0.25,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 937,
-                "y": 474
+                "x": 2364,
+                "y": 692
             }
         },
         "island1.json#Flamingo-Bar_Farbe geändert": {
@@ -965,6 +997,13 @@
         },
         "island1.json#Grasbüschel_64": {
             "scaleInDock": 1
+        },
+        "island1.json#Inselelemente_Insel_03_neues-Seitenverhältnis_Einsetzen_Tiled": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.5
+        },
+        "island1.json#Inselelemente_Insel_03_zum_Einsetzen_in_Tiled": {
+            "scaleInDock": 0.33
         },
         "island1.json#Logo_Contechnet": {
             "scaleInDock": 1
@@ -1030,6 +1069,10 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "island1.json#Wegweiser_zurück_zum SprottenClub_u. AlohaBar": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "island1.json#ZRPGBeach": {
             "scaleInDock": 1
         },
@@ -1057,6 +1100,9 @@
         "island1.json#matrix42_logo_64": {
             "scaleInDock": 1
         },
+        "island1.json#meerjungfrau": {
+            "scaleInDock": 1
+        },
         "island1.json#office_1": {
             "scaleInDock": 1
         },
@@ -1073,15 +1119,16 @@
             "scaleInDock": 1
         },
         "island2.json": {
-            "scale": 0.75,
-            "selectedLayer": 22,
+            "scale": 0.25,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 511.33333333333326,
-                "y": 428
+                "x": 2364,
+                "y": -364
             }
         },
         "island2.json#Aloa-Blumen": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "island2.json#Aloha Bar_1": {
             "scaleInDock": 1
@@ -1094,6 +1141,10 @@
         },
         "island2.json#Grasbüschel_64": {
             "scaleInDock": 1
+        },
+        "island2.json#Inselelemente_Insel_02_zum Einsetzen in Tiled": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 1
         },
         "island2.json#Liege_mit_Hut": {
             "scaleInDock": 1
@@ -1252,15 +1303,19 @@
             "scaleInDock": 1
         },
         "island3.json": {
-            "scale": 0.75,
-            "selectedLayer": 29,
+            "scale": 0.25,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 824.6666666666667,
-                "y": 494.6666666666666
+                "x": 1620,
+                "y": -236
             }
         },
         "island3.json#Grasbüschel_64": {
             "scaleInDock": 1
+        },
+        "island3.json#Inselelemente_Insel_01_zum_Einsetzen_in_Tiled_Ostseebrise": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.75
         },
         "island3.json#Leuchtturm2Fixed": {
             "scaleInDock": 1
@@ -1332,36 +1387,67 @@
             "scaleInDock": 1
         },
         "island3.json#tf_beach_tileB": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "island3.json#wegweise_neu": {
             "dynamicWrapping": true,
             "scaleInDock": 1
+        },
+        "lmbitStrand.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "map.json": {
+            "scale": 0.23341796874999998,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 942.5152706886454,
+                "y": 1332.3738599280396
+            }
+        },
+        "map.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "map.json#office_1": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "tf_beach_tileA1.tsx": {
+            "scaleInDock": 1
+        },
+        "tf_beach_tileB.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         }
     },
-    "last.imagePath": "C:/Users/Patrick.wussow/Documents/GitHub/lmbitNordbitMap/Tilepictures/Elemente/Strandhandtücher",
+    "last.imagePath": "C:/Users/Patrick.wussow/Documents/GitHub/lmbitNordbitMap/Tilepictures/Elemente/Tischtennisplatte",
+    "last.worldFilePath": "C:/Users/Patrick.wussow/Documents/GitHub/lmbitNordbitMap",
+    "loadedWorlds": [
+    ],
     "openFiles": [
         "island1.json",
         "island2.json",
         "island3.json",
+        "conf1.json",
         "conf2.json",
         "conf3.json"
     ],
     "project": "",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
-        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json",
-        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json",
-        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json",
-        "conf3.json",
-        "conf2.json",
-        "conf1.json",
-        "island3.json",
-        "island2.json",
+        "map.json",
+        "tf_beach_tileB.tsx",
         "island1.json",
+        "island2.json",
+        "island3.json",
+        "conf1.json",
+        "conf2.json",
+        "conf3.json",
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json",
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json",
-        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json"
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json",
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json"
     ],
     "tileset.embedInMap": true
 }
