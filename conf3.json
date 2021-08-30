@@ -186,7 +186,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Herzlichen Gl\u00fcckwunsch, du hast eine \u00dcberaschung gefunden. Dr\u00fccke die Leertaste fortzufahren."
+                 "value":"Herzlichen Gl\u00fcckwunsch, du hast eine \u00dcberaschung gefunden. Dr\u00fccke die Leertaste um fortzufahren."
                 }],
          "type":"tilelayer",
          "visible":true,
